@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Licenta-AL</string>
+    <string name="quit">Quit</string>
+    <string name="challenge_button">Challenge</string>
+    <string name="learn">Learn!</string>
+    <string name="welcome_text">Welcome to Algorithm Companion!</string>
+    <string name="learn_welcome">Let\'s learn!</string>
+    <string name="bubble_sort_button">Bubble Sort</string>
+    <string name="quicksort_button">Quicksort</string>
+    <string name="heapsort">Heapsort</string>
+    <string name="title_activity_challenge">challenge_activity</string>
+    <string name="title_activity_bubblesort">bubblesort_activity</string>
+    <string name="bubblesort_text">
+        WIP Bubble Sort TEXT
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
