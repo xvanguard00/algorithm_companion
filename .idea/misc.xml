@@ -3,13 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/drawable/textview_border.xml" value="0.162" />
         <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.11914323962516733" />
         <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.12773224043715847" />
-        <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout/activity_bubblesort.xml" value="0.22" />
+        <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout/activity_bubblesort.xml" value="0.1" />
+        <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout/activity_bubblesort2.xml" value="0.2838541666666667" />
         <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout/activity_challenge.xml" value="0.3625" />
+        <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout/activity_heapsort.xml" value="0.2032103825136612" />
         <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout/activity_learn.xml" value="0.3625" />
         <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout/activity_quicksort.xml" value="0.2828125" />
         <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout/content_scrolling.xml" value="0.33" />
+        <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/layout/textview_border.xml" value="0.2828125" />
+        <entry key="..\:/Users/dfaby/AndroidStudioProjects/LicentaAL/app/src/main/res/menu/menu_bubblesort_activity.xml" value="0.30885416666666665" />
       </map>
     </option>
   </component>
