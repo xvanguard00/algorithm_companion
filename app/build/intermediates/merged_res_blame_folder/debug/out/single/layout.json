@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-mergeDebugResources-36:\\layout\\activity_bubblesort.xml",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_bubblesort.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.licenta_al.app-mergeDebugResources-36:/layout/activity_insertionsort.xml",
+        "source": "com.example.licenta_al.app-main-39:/layout/activity_insertionsort.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-mergeDebugResources-36:\\layout\\activity_learn.xml",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_learn.xml"
+    },
+    {
+        "merged": "com.example.licenta_al.app-mergeDebugResources-36:/layout/activity_learn.xml",
+        "source": "com.example.licenta_al.app-main-39:/layout/activity_learn.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-mergeDebugResources-36:\\layout\\activity_quicksort.xml",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_quicksort.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-mergeDebugResources-36:\\layout\\content_scrolling.xml",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-mergeDebugResources-36:\\layout\\activity_insertionsort.xml",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_insertionsort.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-mergeDebugResources-36:\\layout\\activity_challenge.xml",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_challenge.xml"
+    }
+]

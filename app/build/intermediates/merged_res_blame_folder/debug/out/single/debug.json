@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.licenta_al.app-merged_res-37:/layout_activity_learn.xml.flat",
+        "source": "com.example.licenta_al.app-main-39:/layout/activity_learn.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-pngs-32:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\layout_activity_challenge.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_challenge.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\layout_activity_bubblesort.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_bubblesort.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\layout_content_scrolling.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\drawable_insertionsortcode.png.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\drawable\\insertionsortcode.png"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\drawable_bubblesortcode.png.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\drawable\\bubblesortcode.png"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\layout_activity_learn.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_learn.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\layout_activity_quicksort.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_quicksort.xml"
+    },
+    {
+        "merged": "com.example.licenta_al.app-merged_res-37:/layout_activity_insertionsort.xml.flat",
+        "source": "com.example.licenta_al.app-main-39:/layout/activity_insertionsort.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\drawable_quicksortcode.png.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\drawable\\quicksortcode.png"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\layout-w936dp_content_scrolling.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout-w936dp\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\layout_activity_insertionsort.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout\\activity_insertionsort.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\layout-w1240dp_content_scrolling.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\layout-w1240dp\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\drawable_textview_border.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\drawable\\textview_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dfaby\\.gradle\\daemon\\7.3.3\\com.example.licenta_al.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

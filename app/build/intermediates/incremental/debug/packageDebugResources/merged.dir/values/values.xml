@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Algorithm Companion</string>
+    <string name="bubble_sort_button">Bubble Sort</string>
+    <string name="bubblesortData">
+Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order.\n
+This algorithm is not suitable for large data sets as its average and worst case time complexity is quite high.\n
+First Iteration (Compare and Swap)\n
+1. Starting from the first index, compare the first and the second elements.\n
+2. If the first element is greater than the second element, they are swapped.\n
+3. Now, compare the second and the third elements. Swap them if they are not in order.\n
+4. The above process goes on until the last element.\n
+If there are more iterations to be done, steps 1 to 4 are repeating.\n
+Python Code\n
+</string>
+    <string name="bubblesort_text">test</string>
+    <string name="challenge_button">Challenge</string>
+    <string name="insertionsort">insertion Sort</string>
+    <string name="insertionsortData">
+Insertion sort is a simple sorting algorithm.\n
+The array is virtually split into a sorted and an unsorted part.\n
+Values from the unsorted part are picked and placed at the correct position in the sorted part.\n
+
+</string>
+    <string name="learn">Learn!</string>
+    <string name="learn_welcome">Let\'s learn!</string>
+    <string name="quicksortData">
+Quicksort is a Divide and Conquer algorithm\n
+It picks an element as pivot and partitions the array around the pivot\n
+There are variants with different pivots for this algorithm, to name a few\n
+First element as pivot\n
+Last element as pivot\n
+Random element as pivot\n
+Middle as pivot\n
+The key process to quicksort is its partitioning\n
+The target of partition is to give an array and x as pivot\n
+to put x at the correct position, and every element smaller than x to the left\n
+and all the bigger elements bigger than x to the right\n
+This happens in linear time\n
+</string>
+    <string name="quicksort_button">Quicksort</string>
+    <string name="quit">Quit</string>
+    <string name="title_activity_bubblesort">bubblesort_activity</string>
+    <string name="title_activity_challenge">challenge_activity</string>
+    <string name="welcome_text">Welcome to Algorithm Companion!</string>
+    <style name="Theme.LicentaAL" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.LicentaAL.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.LicentaAL.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.LicentaAL.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

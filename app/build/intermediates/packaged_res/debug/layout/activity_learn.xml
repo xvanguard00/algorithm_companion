@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/teal_700"
+    tools:context=".learn_activity">
+
+    <Button
+        android:id="@+id/insertionsort_button"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/white"
+        android:text="@string/insertionsort"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/quicksort_button"
+        app:layout_constraintHorizontal_bias="0.554"
+        app:layout_constraintStart_toStartOf="@+id/quicksort_button"
+        app:layout_constraintTop_toBottomOf="@+id/quicksort_button"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/learn_welcome_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="@string/learn_welcome"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/bubblesort_button"
+        app:layout_constraintEnd_toEndOf="@+id/bubblesort_button"
+        app:layout_constraintStart_toStartOf="@+id/bubblesort_button"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/bubblesort_button"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/white"
+        android:text="@string/bubble_sort_button"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.314" />
+
+    <Button
+        android:id="@+id/quicksort_button"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/white"
+        android:text="@string/quicksort_button"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/bubblesort_button"
+        app:layout_constraintHorizontal_bias="0.482"
+        app:layout_constraintStart_toStartOf="@+id/bubblesort_button"
+        app:layout_constraintTop_toBottomOf="@+id/bubblesort_button"
+        app:layout_constraintVertical_bias="0.0" />
+</androidx.constraintlayout.widget.ConstraintLayout>
